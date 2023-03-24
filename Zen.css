@@ -7,7 +7,7 @@
     ╚══════╝╚══════╝╚═╝  ╚═══╝
      */
 /*--------------IMPORTS------------- */
-@import url(https://MBG1337.github.io/dk/main.css);
+@import url(https://schnensch0.github.io/zelk/main.css);
 @import url(https://crearts-community.github.io/Settings-Icons/clients/powercord.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
@@ -39,7 +39,7 @@
 /*---------------BASIC---------------*/
 .theme-dark {
   --accent-color: #bde6fb;
-  --background-1: #171d20;
+  --background-1: #023c58;
   --background-2: #1e2529;
   --background-accent: #1e2529;
   --border-color: #273034;
@@ -96,7 +96,7 @@
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
-  --button-accent-active: #8dd4f8;
+  --button-accent-active: #03354e;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
