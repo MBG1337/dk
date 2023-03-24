@@ -3,10 +3,10 @@
 @import url('https://rsms.me/inter/inter.css');
 /* temp */
 .theme-dark {
-  --text-positive: #6ee1b6;
+  --text-positive: #27da98;
 }
 .theme-light {
-  --text-positive: #0bbcdb;
+  --text-positive: #27d190;
 }
 /* background */
 :root {
